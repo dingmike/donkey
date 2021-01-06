@@ -1,0 +1,7 @@
+.idea
+node_modules/
+doc
+dist/
+esm/
+*.tgz
+lib/

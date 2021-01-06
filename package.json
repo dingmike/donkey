@@ -1,0 +1,34 @@
+{
+  "name": "NeZha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "rollup": "^1.27.14",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-typescript2": "^0.25.3",
+    "typescript": "^3.7.4"
+  },
+  "scripts": {
+    "test": "mocha",
+    "build": "node build/build.js",
+    "publish:local": "lerna publish --skip-git",
+    "publish": "npm run build && nrm use npm && lerna publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangxiangmin/NeZha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangxiangmin/NeZha/issues"
+  },
+  "homepage": "https://github.com/tangxiangmin/NeZha#readme"
+}
