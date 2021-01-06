@@ -1,12 +1,10 @@
 {
-  "name": "@shymean/nezha",
+  "name": "@dingmike/donkey",
   "version": "1.0.4",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "keywords": [
-    "NeZha",
-    "Nax",
-    "NeZhaRouter",
+    "donkey",
     "React",
     "Redux",
     "ReactRouter"
