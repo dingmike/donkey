@@ -1,5 +1,5 @@
 {
-  "name": "NeZha",
+  "name": "donkey",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,13 +22,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tangxiangmin/NeZha.git"
+    "url": "git+https://github.com/dingmike/donkey.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tangxiangmin/NeZha/issues"
+    "url": "https://github.com/dingmike/donkey/issues"
   },
-  "homepage": "https://github.com/tangxiangmin/NeZha#readme"
+  "homepage": "https://github.com/dingmike/donkey#readme"
 }
